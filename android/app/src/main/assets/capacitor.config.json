@@ -1,0 +1,6 @@
+{
+	"appId": "com.jesusrebollar.agenda",
+	"appName": "agenda",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
